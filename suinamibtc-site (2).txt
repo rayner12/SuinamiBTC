@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SuinamiBTC - Surfando as Ondas do Bitcoin</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white font-sans">
+
+  <!-- Header -->
+  <header class="p-6 bg-blue-800 shadow-md flex justify-between items-center">
+    <h1 class="text-3xl font-bold">🌊 SuinamiBTC</h1>
+    <nav>
+      <a href="#sobre" class="mx-2 hover:text-yellow-400">Sobre</a>
+      <a href="#sinais" class="mx-2 hover:text-yellow-400">Sinais</a>
+      <a href="#comunidade" class="mx-2 hover:text-yellow-400">Comunidade</a>
+      <a href="#contato" class="mx-2 hover:text-yellow-400">Contato</a>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="text-center py-20 bg-gradient-to-r from-blue-700 to-blue-900">
+    <h2 class="text-5xl font-extrabold mb-4">Surfando as Ondas do Bitcoin!</h2>
+    <p class="text-xl mb-6">Análises, Sinais e Comunidade focada em Crypto Trading</p>
+    <a href="https://t.me/suinamiBTC" target="_blank" class="px-6 py-3 bg-yellow-400 text-black font-bold rounded-lg hover:bg-yellow-300">
+      🌊 Junte-se ao nosso Telegram
+    </a>
+  </section>
+
+  <!-- Sobre o Projeto -->
+  <section id="sobre" class="py-12 px-6 max-w-4xl mx-auto">
+    <h3 class="text-3xl font-bold mb-4">Sobre o SuinamiBTC</h3>
+    <p>
+      O SuinamiBTC nasceu para ajudar traders e investidores a entender melhor o mercado de Bitcoin e criptomoedas.  
+      Oferecemos análises técnicas, sinais e muito conteúdo educativo para todos os níveis.
+    </p>
+  </section>
+
+  <!-- Sinais e Análises -->
+  <section id="sinais" class="py-12 px-6 max-w-4xl mx-auto bg-gray-800 rounded-lg shadow-lg">
+    <h3 class="text-3xl font-bold mb-4">Sinais & Análises</h3>
+    <ul class="list-disc pl-5 space-y-2">
+      <li>Sinais de compra e venda de BTC</li>
+      <li>Análises diárias de mercado</li>
+      <li>Gráficos e tendências</li>
+      <li>Alertas de movimentações bruscas</li>
+    </ul>
+  </section>
+
+  <!-- Comunidade -->
+  <section id="comunidade" class="py-12 px-6 max-w-4xl mx-auto">
+    <h3 class="text-3xl font-bold mb-4">Nossa Comunidade</h3>
+    <p>
+      Junte-se ao nosso grupo exclusivo no Telegram para trocar ideias, tirar dúvidas e receber as últimas atualizações do mercado.
+    </p>
+    <a href="https://t.me/suinamiBTC" target="_blank" class="inline-block mt-4 px-6 py-3 bg-blue-600 text-white font-bold rounded-lg hover:bg-blue-500">
+      Entrar no Telegram
+    </a>
+  </section>
+
+  <!-- Contato -->
+  <section id="contato" class="py-12 px-6 max-w-4xl mx-auto">
+    <h3 class="text-3xl font-bold mb-4">Contato</h3>
+    <p>Quer parcerias ou tem dúvidas? Envie um e-mail para: contato@suinamibtc.com</p>
+  </section>
+
+  <!-- Footer -->
+  <footer class="text-center py-6 bg-gray-800">
+    <p>© 2025 SuinamiBTC. Todos os direitos reservados.</p>
+  </footer>
+
+</body>
+</html>
